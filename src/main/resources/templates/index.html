@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>GitHub Resume Builder</title>
+    <link rel="stylesheet" type="text/css" href="/css/styles.css">
+</head>
+<body>
+<div class="container">
+    <h1>GitHub Resume Builder</h1>
+    <form action="/select-repos" method="get">
+        <label for="username">GitHub Username:</label>
+        <input type="text" id="username" name="username" required>
+        <button type="submit">Next</button>
+    </form>
+</div>
+</body>
+</html>
