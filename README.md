@@ -10,7 +10,7 @@ The GitHub Resume Builder is a Spring Boot application that allows users to gene
 
 ## Link to Product Walkthrough
 
-![Watch the Demo Video](https://youtu.be/HGsjjNDPex8)
+[Watch the Demo Video](https://youtu.be/HGsjjNDPex8)
 
 ## How It Works
 
