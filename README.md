@@ -42,7 +42,7 @@ The GitHub Resume Builder is a Spring Boot application that allows users to gene
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/github-resume-builder.git
+   git clone https://github.com/Herogo3241/github-resume-builder.git
    cd github-resume-builder
    ```
 
